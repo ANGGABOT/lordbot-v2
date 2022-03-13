@@ -2,33 +2,33 @@ global.DeveloperMode = 'true' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/LE1YcNgtYhHEAmELFS58Sv']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6281223918622': { // put your number here
+  '6281915041423': { // put your number here
     name: 'ᴹᴿᤎ RiyoOfcི ࿇ (Creator Botz)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': { // put your number here
+  '6281915041423': { // put your number here
     name: 'ᴹᴿᤎ RiyoOfcི ࿇ (Creator2 Botz)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6285861934157': { // put your number here
+  '6281915041423': { // put your number here
     name: ' ᤎ LOLI Botྂᤅ (Testing Botz)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282119800783': {
+  '6281915041423': {
     name: 'ᤎ LOLI Botྂᤅ',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '1929393929': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['6281223918622'] // Want some help?
-global.prems = ['6281223918622','6285861934157','6282119800783'] // Premium user has unlimited limit
+global.mods = ['6281915041423'] // Want some help?
+global.prems = ['6281915041423','6281915041423','6281915041423'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
